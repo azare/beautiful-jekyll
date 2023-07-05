@@ -1,13 +1,11 @@
 ---
+layout: post
 title: "The Ultimate Coast to Coast Motorcycle Adventure"
-header:
-  
-categories:
-  - Layout
-  - trip
-tags:
-  - trip
-  - kwtopb
+cover-img: /assets/img/arctic-2.jpg
+thumbnail-img: /assets/img/LUPML0Logo.jpg
+share-img: /assets/img/LUPML0Logo.jpg
+tags: [route]
+categories: [trip]
 last_modified_at: 2023-02-25T15:12:19-04:00
 ---
 
