@@ -3,7 +3,7 @@ layout: post
 title: "Happy Heavenly Birthday Mom"
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/bio-photo.jpg
-thumbnail-img: /assets/img/mom.png
+thumbnail-img: /assets/img/mom.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 categories:
