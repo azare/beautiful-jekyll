@@ -4,11 +4,10 @@ title: "Happy Heavenly Birthday Mom"
 subtitle: You're probably spending your day knitting up in heaven!
 cover-img: /assets/img/knitting-needles-Yarn.jpg
 thumbnail-img: /assets/img/mom.jpg
-share-img: /assets/img/path.jpg
-tags: [books, test]
+share-img: /assets/img/mom.jpg
+tags: [mom]
 categories:
-  - Layout
-  - Uncategorized
+  - Mom
 last_modified_at: 2023-04-25T15:12:19-04:00
 ---
 
