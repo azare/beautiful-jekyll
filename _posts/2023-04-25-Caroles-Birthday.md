@@ -1,17 +1,14 @@
 ---
+layout: post
 title: "Happy Heavenly Birthday Mom"
-header:
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "Learn more"
-      url: "https://unsplash.com"
+subtitle: Excerpt from Soulshaping by Jeff Brown
+cover-img: /assets/img/bio-photo.jpg
+thumbnail-img: /assets/img/mom.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
 categories:
   - Layout
   - Uncategorized
-tags:
-  - edge case
-  - image
-  - layout
 last_modified_at: 2023-04-25T15:12:19-04:00
 ---
 
