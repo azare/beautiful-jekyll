@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy Heavenly Birthday Mom"
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: You're probably spending your day knitting up in heaven!
 cover-img: /assets/img/knitting-needles-Yarn.jpg
 thumbnail-img: /assets/img/mom.jpg
 share-img: /assets/img/path.jpg
