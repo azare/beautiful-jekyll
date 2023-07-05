@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why would I ride over 14,000 miles across North American solo?!?!
+subtitle: Who would I ride over 14,000 miles across North American solo?!?!
 ---
 
 This is site is to share my travel adventures, primarily on my motorcycle, although I'm sure it will extend to other forms of travel in the future. The *unpausing* of my life started with the loss of my parents in early 2022. I don't think it matters how old you are, the loss of a parent is always difficult. I started to reflect on my own mortality at that point and took a look at how I was living my life, which lead to asking myself why did I stop doing many of the things I enjoyed so much when I was younger. Well a lot of the reason was family, raising 3 children over those 25 yrs and just not having the free time. Now my children all young adults and self supportive and leading their own lives. Because of that I found myself with more free time on my hands.

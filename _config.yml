@@ -15,8 +15,6 @@ title: Life Unpaused
 # Your name to show in the footer
 author: Erik Azar
 
-# url: https://azare.github.io/beautiful-jekyll
-
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -24,7 +22,14 @@ author: Erik Azar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://lifeunpaused.org"
+    - Donate to American Lung Association: "https://bealungsaver.funraise.org/fundraiser/erik-azar"
+    - Iron Butt Ultimate Coast to Coast to Coast Insanity: "https://www.ironbutt.com/themerides/ucc/index.html"
+    - Pruhdoe Bay/Deadhorse Alaska: "https://www.travelalaska.com/Destinations/Cities-Towns/Prudhoe-Bay-Deadhorse"
+    - Dalton Highway to Deadhorse: "https://www.alaska.org/guide/dalton-highway"
+    - Tuktoyaktuk Northwest Territories: "https://www.mustdocanada.com/driving-to-the-arctic-ocean-exploring-tuktoyaktuk/"
+    - Dempster Highway to Tuktoyaktuk: "https://www.mustdocanada.com/7-tips-for-driving-the-dempster-highway-to-the-arctic/"
+    - Dawson City: "https://dawsoncity.ca/"
+    - Hyder, Alaska: "https://www.onlyinyourstate.com/alaska/hyder-alaska/""
   Author's home: "https://about.me/erikazar"
 
 ################
