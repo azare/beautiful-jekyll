@@ -2,8 +2,8 @@
 layout: post
 title: "The Ultimate Coast to Coast Motorcycle Adventure"
 cover-img: /assets/img/arctic-2.jpg
-thumbnail-img: /assets/img/LUPGreensmall.jpg
-share-img: /assets/img/LUPGreensmall.jpg
+thumbnail-img: /assets/img/LUPGreensmall.png
+share-img: /assets/img/LUPGreensmall.png
 tags: [route]
 categories: [trip]
 last_modified_at: 2023-02-25T15:12:19-04:00
