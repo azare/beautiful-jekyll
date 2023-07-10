@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/LUPGreensmall.png
 share-img: /assets/img/LUPGreensmall.png
 tags: [route]
 categories: [trip]
-last_modified_at: 2023-02-25T15:12:19-04:00
+last_modified_at: 2023-07-10T09:44:00-09:00
 ---
 
 On February 25, 2022 my mother lost her short battle with Stage 4 Lung Cancer. Since the time of her death I've picked back up my love for motorcycling and discovered that I enjoy long solo motorcycle camping trips. This trip is to continue stepping out of my confort zone and push my physical and mental abilities. And what a better cause than to raise money for the American Lung Association as I continue my journey.
@@ -15,13 +15,15 @@ On February 25, 2022 my mother lost her short battle with Stage 4 Lung Cancer. S
 
 ## Overview
 
-Stage 1 - On Monday, July 24, 2023 I'll begin this journey from Saint Augustine, FL as I ride south to Key West for the official starting location. From there I'll ride north through the midwest states, through Canada heading towards Fairbanks, AK, from there I'll pickup the Dalton Highway, a desolate road (the term “road” used loosely!) that runs 414 miles from just north of Fairbanks to just south of the Arctic Ocean in the oil fields of Deadhorse (Pruhdoe Bay), AK. It's none as one of the worlds most deadliest roads.
+The trip route planning has changed several times over the past 6 months. Some because I've discovered new areas I'd like to see, others influenced by the wild fires in Canada. It's highly probably it will change slightly again along the trip as I adapt to changing weather conditions and experiences I find along the route.
 
-Stage 2 - After resting for a few hours I'll back down the Dalton Highway through Fairbanks then head towards Whitehorse, Yukon, CA. I'll head north towards the Dempster Highway to my stage 2 destination of Tuktoyaktuk, Northwest Territories, CA where I'll ride out to the Arctic Ocean and take a quick swim.
+Stage 1 - On Sunday, July 23, 2023 I'll begin this journey from Miami, FL as I ride south to Key West for the official starting location. From there I'll ride north through the midwest states, through Canada heading towards Hyder, AK, riding up the Cassiar Highway towards Fairbanks, AK where I'll get on the Dalton Highway, a desolate road (the term “road” used loosely!) that runs 414 miles from just north of Fairbanks to just south of the Arctic Ocean in the oil fields of Deadhorse (Pruhdoe Bay), AK. It's known as one of the worlds most deadliest roads.
 
-Stage 3 - After spending the night in Tuktoyaktuk I'll begin the journey home heading south to visit Yellowstone National Park in Wyoming, Arches, Bryce Canyon, and Zion National Parks in Utah, Whitesands National Park in New Mexico, Big Bend National Park in Texas, and then head East towards Saint Augustine, FL for home.
+Stage 2 - After resting for a few hours I'll ride back down the Dalton Highway through Fairbanks then head towards Tok, AK. I'll head over the Top of the World Highway towards the Dempster Highway to my stage 2 destination of Tuktoyaktuk, Northwest Territories, CA where I'll ride out to the Arctic Ocean and take a quick swim.
 
-The total trip shuold take around 5 weeks and cover over 15,000 miles.
+Stage 3 - After spending the night in Tuktoyaktuk I'll begin the journey home heading south towards Jasper and Banff National Parks eventually working my way back down to the lower 48 and head towards Key West, FL to officially complete my trip.
+
+The total trip shuold take around 5 weeks and cover over 14,000 miles.
 
 ## Challenges
 
