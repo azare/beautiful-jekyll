@@ -21,7 +21,6 @@ author: Erik Azar
 
 navbar-links:
   Donate Now: "https://bealungsaver.funraise.org/fundraiser/erik-azar"
-  About Me: "aboutme"
   Destinations:
     - Iron Butt Ultimate Coast to Coast to Coast Insanity: "https://www.ironbutt.com/themerides/ucc/index.html"
     - Pruhdoe Bay/Deadhorse Alaska: "https://www.travelalaska.com/Destinations/Cities-Towns/Prudhoe-Bay-Deadhorse"
@@ -30,7 +29,7 @@ navbar-links:
     - Dempster Highway to Tuktoyaktuk: "https://www.mustdocanada.com/7-tips-for-driving-the-dempster-highway-to-the-arctic/"
     - Dawson City: "https://dawsoncity.ca/"
     - Hyder, Alaska: "https://www.onlyinyourstate.com/alaska/hyder-alaska/"
-  Author's home: "https://about.me/erikazar"
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #
@@ -41,7 +40,7 @@ navbar-links:
 avatar: "/assets/img/KWtoAKLogo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
