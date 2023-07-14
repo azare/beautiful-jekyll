@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Who would I ride over 14,000 miles across North American solo?!?!
+subtitle: Why would I ride over 14,000 miles across North American solo?!?!
 cover-img: /assets/img/bio-photo.jpg
 thumbnail-img: /assets/img/bio-photo.png
 share-img: /assets/img/bio-photo.jpg
