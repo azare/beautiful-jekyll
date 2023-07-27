@@ -2,7 +2,7 @@
 layout: post
 title: "River City Live Interview"
 subtitle: LiveUnpaused Trip
-cover-img: /assets/img/RiverCityLiveInterview.png
+# cover-img: /assets/img/RiverCityLiveInterview.png
 thumbnail-img: /assets/img/RiverCityLiveInterview.png
 share-img: /assets/img/RiverCityLiveInterview.png
 tags: [interview]
