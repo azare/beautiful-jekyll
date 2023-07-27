@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "River City Live Interview"
-subtitle: LiveUnpaused Trip
+subtitle: Life Unpaused Trip
 # cover-img: /assets/img/RiverCityLiveInterview.png
 thumbnail-img: /assets/img/RiverCityLiveInterview.png
 share-img: /assets/img/RiverCityLiveInterview.png

@@ -3,7 +3,7 @@ layout: post
 title: "Riding for a cause! Living Life Unpaused Interview"
 subtitle: Castillo Conversations Interview
 # cover-img: /assets/img/RiverCityLiveInterview.png
-thumbnail-img: /assets/img/YouTubeInterview.png.png
+thumbnail-img: /assets/img/YouTubeInterview.png
 share-img: /assets/img/YouTubeInterview.png
 tags: [interview]
 last_modified_at: 2023-07-19T12:00:00-04:00
