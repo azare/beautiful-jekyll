@@ -2,10 +2,10 @@
 layout: post
 title: "Hoka Hey Signup Day"
 subtitle: 2026 Hoka Hey signup day
-cover-img: /assets/img/hoka-hey-logo.jpeg
-thumbnail-img: /assets/img/hoka-hey-logo.jpeg
-share-img: /assets/img/hoka-hey-logo.jpeg
-tags: [trip]
+cover-img: /assets/img/2025/hoka-hey-logo.jpeg
+thumbnail-img: /assets/img/2025/hoka-hey-logo.jpeg
+share-img: /assets/img/2025/hoka-hey-logo.jpeg
+tags: [hokahey2026]
 last_modified_at: 2023-07-23T22:30:00-04:00
 ---
 
