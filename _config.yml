@@ -21,7 +21,7 @@ author: Erik Azar
 
 navbar-links:
   Donate Now: "https://bealungsaver.funraise.org/fundraiser/erik-azar"
-  Destinations:
+  2023 Destinations:
     - Iron Butt Ultimate Coast to Coast to Coast Insanity: "https://www.ironbutt.com/themerides/ucc/index.html"
     - Pruhdoe Bay/Deadhorse Alaska: "https://www.travelalaska.com/Destinations/Cities-Towns/Prudhoe-Bay-Deadhorse"
     - Dalton Highway to Deadhorse: "https://www.alaska.org/guide/dalton-highway"
@@ -261,7 +261,7 @@ timezone: "America/NewYork"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 10
+paginate: 5
 
 kramdown:
   input: GFM
