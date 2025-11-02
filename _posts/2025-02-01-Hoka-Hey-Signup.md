@@ -6,7 +6,7 @@ cover-img: /assets/img/2025/hoka-hey-logo.jpeg
 thumbnail-img: /assets/img/2025/hoka-hey-logo.jpeg
 share-img: /assets/img/2025/hoka-hey-logo.jpeg
 tags: [hokahey2026]
-last_modified_at: 2023-07-23T22:30:00-04:00
+last_modified_at: 2025-02-01T03:00:00-04:00
 ---
 
 I registered for the 2026 Hoka Hey ride. They only had opening space for 100 new riders, hoping I make the cut!  The challenge starts in Aug 2, 2026 in Woodstock, IL…and over 10,000 miles later we’ll finish at the starting line.
