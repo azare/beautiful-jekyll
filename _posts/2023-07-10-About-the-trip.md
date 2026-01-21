@@ -2,8 +2,8 @@
 layout: post
 title: "The Ultimate Coast to Coast Motorcycle Adventure"
 cover-img: /assets/img/arctic-2.jpg
-thumbnail-img: /assets/img/LUPGreensmall.png
-share-img: /assets/img/LUPGreensmall.png
+thumbnail-img: /assets/img/2023/UCCI/LUPGreensmall.png
+share-img: /assets/img/2023/UCCI/LUPGreensmall.png
 tags: [route]
 categories: [trip]
 last_modified_at: 2023-07-10T09:44:00-09:00
@@ -11,7 +11,7 @@ last_modified_at: 2023-07-10T09:44:00-09:00
 
 On February 25, 2022 my mother lost her short battle with Stage 4 Lung Cancer. My father passed away 2 months prior to her from complications from COPD. Since the time of their death I’ve picked back up my love for motorcycling and discovered that I enjoy long solo motorcycle camping trips. This trip is to continue stepping out of my comfort zone and push my physical and mental abilities. And what a better cause than to raise money for the American Lung Association as I continue my journey.
 
-![Live Unpaused]({{ site.url }}/assets/img/LUPML0Logo.jpg){: .mx-auto.d-block :}
+![Live Unpaused]({{ site.url }}/assets/img/2023/UCCI/LUPML0Logo.jpg){: .mx-auto.d-block :}
 
 ## Overview
 

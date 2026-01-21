@@ -2,9 +2,9 @@
 layout: post
 title: "2026 Hoka Hey Acceptance"
 subtitle: I was accepted for the 2026 Hoka Hey Challenge
-cover-img: /assets/img/2025/hoka-hey-logo.jpeg
-thumbnail-img: /assets/img/2025/hoka-hey-rider-number.jpeg
-share-img: /assets/img/2025/hoka-hey-rider-number.jpeg
+cover-img: /assets/img/2025/HH/hoka-hey-logo.jpeg
+thumbnail-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
+share-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
 tags: [hokahey2026]
 last_modified_at: 2025-05-25T14:30:00-04:00
 ---
@@ -34,4 +34,4 @@ I’m dedicating this ride to my parents, who I lost in 2021 and 2022.
 ### Fundraising: 
 I’m in the process of selecting a charity I’lll be raising money for.
 
-![Hoka hey]({{ site.url }}/assets/img/2025/hoka-hey-rider-number.jpeg){: .mx-auto.d-block :}
+![Hoka hey]({{ site.url }}/assets/img/2025/HH/hoka-hey-rider-number.jpeg){: .mx-auto.d-block :}
