@@ -1118,3 +1118,12 @@ pre {
     display: inline-block;
   }
 }
+
+/* --- Custom blog post styles --- */
+.hh-trademark {
+  content: ' Hoka Hey Motorcycle Challenge&trade;'
+}
+
+.hh-info-url {
+  content: 'Visit [{: .hh-trademark}](https://hokaheychallenge.com) for more information'
+}

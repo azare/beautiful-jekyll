@@ -9,8 +9,10 @@ tags: [hokahey2026]
 last_modified_at: 2025-02-01T03:00:00-04:00
 ---
 
-I registered for the 2026 Hoka Hey Motorcycle Challenge&trade; ride. They only have opening space for 100 new riders each year, hoping I make the cut!  The ride starts on Aug 2, 2026 in Woodstock, IL…and over 10,000 miles later we’ll finish at the starting line.
+I registered for the {: .hh-trademark} ride. They only have opening space for 100 new riders each year, hoping I make the cut!  The ride starts on Aug 2, 2026 in Woodstock, IL…and over 10,000 miles later we’ll finish at the starting line.
 
-Ever since I completed my 2023 Alaska trip I've wanted to push myself even further. The Hoka Hey Motorcycle ChallengeTM was an event I learned about while on that trip. I ended up being too late to sign up for the 2024 event, I was going to make sure I didn't miss it for 2026. 
+Ever since I completed my 2023 Alaska trip I've wanted to push myself even further. The {: .hh-trademark} was an event I learned about while on that trip. I ended up being too late to sign up for the 2024 event, I was going to make sure I didn't miss it for 2026. 
 
-Visit [Hoka Hey Motorcycle Challenge](https://hokaheychallenge.com) for more information
+Visit [xxHoka Hey Motorcycle Challenge](https://hokaheychallenge.com) for more information
+
+{: .hh-info-url}
