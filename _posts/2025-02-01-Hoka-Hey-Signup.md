@@ -13,4 +13,4 @@ I registered for the 2026 Hoka Hey Motorcycle Challenge &trade ride. They only h
 
 Ever since I completed my 2023 Alaska trip I've wanted to push myself even further. The Hoka Hey Motorcycle ChallengeTM was an event I learned about while on that trip. I ended up being too late to sign up for the 2024 event, I was going to make sure I didn't miss it for 2026. 
 
-Visit https://hokaheychallenge.com for more information
+Visit [Hoka Hey Motorcycle Challenge](https://hokaheychallenge.com) for more information
