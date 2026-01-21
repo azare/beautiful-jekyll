@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accepted!!!"
-subtitle: I was accepted for the 2026 Hoka Hey Motorcycle ChallengeTM
+subtitle: I was accepted for the 2026 Hoka Hey Motorcycle Challenge&trade;
 cover-img: /assets/img/2025/HH/hoka-hey-logo.png
 thumbnail-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
 share-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
@@ -11,7 +11,7 @@ last_modified_at: 2025-05-25T14:30:00-04:00
 
 Exciting News! 🚨🏍️
 
-I’m thrilled to announce that I’ve been selected as a rider for the 2026 Hoka Hey Motorcycle ChallengeTM! 🎉 
+I’m thrilled to announce that I’ve been selected as a rider for the 2026 Hoka Hey Motorcycle Challenge&trade;! 🎉 
 
 My rider number is #1301, and I’m honored to join other elite long-distance riders in this incredible journey.
 
@@ -34,7 +34,7 @@ I’m dedicating this ride to my parents and friends that are no longer with us 
 ### Fundraising: 
 I am proud to raise funds for the Child Cancer Fund, a compassionate organization that has provided vital relief to families in Northeast Florida battling childhood cancer for over 30 years, offering support ranging from medical expenses to emotional care.
 
-### Learn more about the Hoka Hey Motorcycle ChallengeTM:
-Visit https://hokaheychallenge.com for more information.
+### Learn more about the Hoka Hey Motorcycle Challenge&trade;:
+Visit [Hoka Hey Motorcycle Challenge&trade;](https://hokaheychallenge.com){:target="_blank"} for more information
 
 ![Hoka hey]({{ site.url }}/assets/img/2025/HH/hoka-hey-rider-number.jpeg){: .mx-auto.d-block :}
