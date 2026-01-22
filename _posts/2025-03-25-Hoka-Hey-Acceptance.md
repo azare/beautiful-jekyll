@@ -2,9 +2,9 @@
 layout: post
 title: "Accepted!!!"
 subtitle: I was accepted for the 2026 Hoka Hey Motorcycle Challenge&trade;
-cover-img: /assets/img/2025/HH/HH1301Decal.jpeg
-thumbnail-img: /assets/img/2025/HH/HH1301Decal.jpeg
-share-img: /assets/img/2025/HH/HH1301Decal.jpeg
+cover-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
+thumbnail-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
+share-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
 tags: [hokahey2026]
 last_modified_at: 2025-05-25T14:30:00-04:00
 ---
@@ -37,4 +37,4 @@ I am proud to raise funds for the Child Cancer Fund, a compassionate organizatio
 ### Learn more about the Hoka Hey Motorcycle Challenge&trade;:
 Visit [Hoka Hey Motorcycle Challenge&trade;](https://hokaheychallenge.com){:target="_blank"} for more information
 
-![Hoka hey]({{ site.url }}/assets/img/2025/HH/HH1301Decal.jpeg){: .mx-auto.d-block :}
+![Hoka hey]({{ site.url }}/assets/img/2025/HH/hoka-hey-rider-number-qrcode.jpeg){: .mx-auto.d-block :}
