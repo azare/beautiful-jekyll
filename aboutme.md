@@ -14,9 +14,3 @@ In early 2022, I rekindled my love for two-wheeled adventures. I traded in my 20
 After connecting with others who had completed the journey, I felt ready. I chose to ride solo, embracing the challenge of wild camping as often as possible to push myself beyond my comfort zone. My goal was to camp each night--with a few exceptions for Key West, a stop to visit my son in St. Louis, and a stay in Prudhoe Bay. In total, I ended up camping for half the trip, spent nights in motels or Airbnbs, and stayed with generous Bunk-a-Biker hosts who welcome riders into their homes.
 
 My parents taught me never to fear new experiences or unfamiliar paths. I dedicated this journey to them while raising funds for the American Lung Association in memory of my mother, who passed away on February 25, 2022, after a courageous fight with Stage 4 lung cancer, and my father, who lost his battle with COPD in December 2021. Every mile I ride honors their spirit, their strength, and the sense of adventure they passed on to me.
-
-
-
-### Donate to the American Lung Association
-
-To donate and find out additional information about the American Lung Association, check out [ALA Donation Page](https://bealungsaver.funraise.org/fundraiser/erik-azar).
