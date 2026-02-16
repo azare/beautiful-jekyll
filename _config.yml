@@ -20,11 +20,11 @@ author: Erik Azar
 ###############################################
 
 navbar-links:
-  Donate Now:
-    - Child Cancer Fund: "https://childcancerfund.org/motorcycle-ride-donations/"
-    - Mile Monster Duchenne Muscular Dystrophy: "https://givebutter.com/HH2026/erikazar"
+  Donate Now - Hoka Hey 2026:
+    - Donate to Child Cancer Fund: "https://childcancerfund.org/motorcycle-ride-donations/"
+    - Donate to Mile Monster Duchenne Muscular Dystrophy: "https://givebutter.com/HH2026/erikazar"
     - Buy A Tank of Gas: "https://www.venmo.com/u/Erik-Azar"
-  Hoka Hey 2026: "https://www.hokaheychallenge.com/Pages/2026_challenge.htm"
+    - What is the Hoka Hey 2026: "https://www.hokaheychallenge.com/Pages/2026_challenge.htm"
   2023 Destinations:
     - Iron Butt Ultimate Coast to Coast to Coast Insanity: "https://www.ironbutt.com/themerides/ucc/index.html"
     - Pruhdoe Bay/Deadhorse Alaska: "https://www.travelalaska.com/Destinations/Cities-Towns/Prudhoe-Bay-Deadhorse"
@@ -142,13 +142,13 @@ navbar-col:  "#d11e2c" # "#30715D" "#EAEAEA"
 navbar-text-col: "#FFFFFF" # "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#E6E600"
 link-col: "#008AFF"
 hover-col: "#2DE361" #"#0085A1"
 footer-col: "#d11e2c" # "#30715D" # "#EAEAEA"
 footer-text-col: "#FFFFFF" #"#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-link-col: "#E6E600"
+footer-hover-col: "#FFE14D"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
