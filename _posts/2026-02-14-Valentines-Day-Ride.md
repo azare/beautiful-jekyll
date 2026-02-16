@@ -13,10 +13,11 @@ A break in the cold, gray winter was just what we needed on Valentine’s Day, s
 
 When you live in a place, it’s easy to gloss over the things people travel long distances to see. With a beautiful Saturday in the forecast, I decided to play tourist in my own backyard.
 
-
+#The Route
 ![The Route]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/route.jpeg){: .mx-auto.d-block :}
 
 
+#Ferry Ride
 The day started with a ride up to the UNF campus, Lot 18, to watch part of the Motorcycle Rodeo challenge with local sheriff’s deputies on their motor units. The sun was out, the temperatures were climbing, and it felt like the perfect excuse to stay on the bike and keep going.
 
 ![Bike on Ferry]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/ferryridebike.jpeg){: .mx-auto.d-block :}
