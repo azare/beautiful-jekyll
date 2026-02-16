@@ -13,6 +13,8 @@ A break in the cold, gray winter was just what we needed on Valentine’s Day, s
 
 When you live in a place, it’s easy to gloss over the things people travel long distances to see. With a beautiful Saturday in the forecast, I decided to play tourist in my own backyard.
 
+![The Route]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/route.jpeg){: .mx-auto.d-block :}
+
 The day started with a ride up to the UNF campus, Lot 18, to watch part of the Motorcycle Rodeo challenge with local sheriff’s deputies on their motor units. The sun was out, the temperatures were climbing, and it felt like the perfect excuse to stay on the bike and keep going.
 
 ![Bike on Ferry]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/ferryridebike.jpeg){: .mx-auto.d-block :}
@@ -27,18 +29,35 @@ On Jacksonville’s Fort George Island, Kingsley Plantation lays bare how slaver
 
 ![Kingsley Main House]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/kingsleymainhouse.jpeg){: .mx-auto.d-block :}
 
-The next stop on the route was the Amelia Island Lighthouse. I got lucky,by the time I rolled up, it was about 40 minutes past closing, but the gate was still open. A couple who arrived after me said they’d tried several times to visit and always found it locked, so apparently this was my day.
+![Kingsley Main House]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/kingleyhousefrontyard.jpeg){: .mx-auto.d-block :}
 
-Tucked into Fernandina Beach, the Amelia Island Lighthouse is the oldest surviving lighthouse in Florida, and it started life across the state line. Built on Georgia’s Cumberland Island in 1820, it was literally taken apart brick by brick and moved to Amelia in the 1830s to better mark the St. Marys River entrance. It first lit up the coast in 1839, before Florida was even a state, and it’s still an active aid to navigation today...a working relic from the age when every ship coming into this corner of the Atlantic depended on that beam.
+![Kingsley Main House]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/kingsleybarnoutside.jpeg ){: .mx-auto.d-block :}
+
+![Kingsley Main House]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/kingsleybarninside.jpeg){: .mx-auto.d-block :}
+
+The next stop on the route was the Amelia Island Lighthouse. I got lucky,by the time I rolled up, it was about 40 minutes past closing, but the gate was still open. A couple who arrived after me said they’d tried several times to visit and always found it locked, so apparently this was my day.
 
 ![Amelia Island Lighthouse]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse-sign.jpeg){: .mx-auto.d-block :}
 
+Tucked into Fernandina Beach, the Amelia Island Lighthouse is the oldest surviving lighthouse in Florida, and it started life across the state line. Built on Georgia’s Cumberland Island in 1820, it was literally taken apart brick by brick and moved to Amelia in the 1830s to better mark the St. Marys River entrance. It first lit up the coast in 1839, before Florida was even a state, and it’s still an active aid to navigation today...a working relic from the age when every ship coming into this corner of the Atlantic depended on that beam.
 
 ![Amelia Island Lighthouse]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg){: .mx-auto.d-block :}
 
-A little farther up the road, tucked into Old Town Fernandina, is Fernandina Plaza Historic State Park, basically a grassy lot with one hell of a résumé. This small bluff over the Amelia River started as a Native American campsite and shell midden, then became Plaza San Carlos, the parade ground for Spanish Fort San Carlos and the heart of the last planned Spanish town in North America. Over the 1700s and 1800s, Spanish, British, Americans, pirates, and "Patriots" all fought over this spot. The fort is long gone, but the plaza and Spanish street grid are still there, now billed as Florida’s smallest state park, with a surprising amount of history baked into the dirt.
+A little farther up the road, tucked into Old Town Fernandina, is Fernandina Plaza Historic State Park, basically a grassy lot with one hell of a résumé. 
 
 
 ![Fernandina Old Town]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/oldtownfernandina.jpeg){: .mx-auto.d-block :}
+
+
+![Fernandina Plaza State Park]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/fernandinaplazastatepark.jpeg){: .mx-auto.d-block :}
+
+This small bluff over the Amelia River started as a Native American campsite and shell midden, then became Plaza San Carlos, the parade ground for Spanish Fort San Carlos and the heart of the last planned Spanish town in North America. Over the 1700s and 1800s, Spanish, British, Americans, pirates, and "Patriots" all fought over this spot. The fort is long gone, but the plaza and Spanish street grid are still there, now billed as Florida’s smallest state park, with a surprising amount of history baked into the dirt.
+
+
+![Fernandina Park History]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/fernandinaparkhistory.jpeg){: .mx-auto.d-block :}
+
+![Fernandina Plaza Cannon]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/fernandinaplazacannon.jpeg){: .mx-auto.d-block :}
+
+![Fernandina Plaza San Carlos]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/plazasancarlos.jpeg){: .mx-auto.d-block :}
 
 After that, I made a brief run through downtown Fernandina, grabbed lunch at Arte Pizza on N 3rd Street, and then pointed the bike back toward St. Augustine. A sunny winter day, a good ride, and a reminder that there’s a lot of history hiding just up the road.
