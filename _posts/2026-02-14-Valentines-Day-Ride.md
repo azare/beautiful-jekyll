@@ -4,7 +4,7 @@ title: "Old Florida Ride"
 subtitle: Exploring parts of Old Florida on Valentine's Day
 cover-img: /assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg
 thumbnail-img: /assets/img/2025/Feb/ValentinesDayRide/bike.jpeg
-share-img: /assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg
+share-img: /assets/img/2025/Feb/ValentinesDayRide/route.jpeg
 tags: [old florida, rides]
 last_modified_at: 2026-02-14T14:30:00-04:00
 ---
