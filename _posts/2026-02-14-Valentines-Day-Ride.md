@@ -2,9 +2,9 @@
 layout: post
 title: "Valentine's Day - Old Florida Ride"
 subtitle: Exploring parts of Old Florida on Valentine's Day
-cover-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
-thumbnail-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
-share-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
+cover-img: /assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg
+thumbnail-img: /assets/img/2025/Feb/ValentinesDayRide/fernandinaplazacannon.jpeg
+share-img: /assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg
 tags: [old florida, rides]
 last_modified_at: 2026-02-14T14:30:00-04:00
 ---
