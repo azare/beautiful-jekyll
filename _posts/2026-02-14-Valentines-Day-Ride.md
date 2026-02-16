@@ -68,5 +68,5 @@ This small bluff over the Amelia River started as a Native American campsite and
 
 ![Fernandina Plaza San Carlos]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/plazasancarlos.jpeg){: .mx-auto.d-block :}
 
-# Lunch at Artemis Pizza
+# Lunch at Arte Pizza
 After that, I made a brief run through downtown Fernandina, grabbed lunch at Arte Pizza on N 3rd Street, and then pointed the bike back toward St. Augustine. A sunny winter day, a good ride, and a reminder that there’s a lot of history hiding just up the road.
