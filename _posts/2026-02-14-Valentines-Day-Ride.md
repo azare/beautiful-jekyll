@@ -24,7 +24,10 @@ The day started with a ride up to the UNF campus, Lot 18, to watch part of the M
 
 ![Ferry Water View]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/ferrywaterview.jpeg){: .mx-auto.d-block :}
 
-From there, I headed toward Mayport to catch the ferry across the St. Johns River. Traffic wasn’t bad for a long holiday weekend, especially considering it was Valentine’s Day, and the ride up the Jimmy Buffet Memorial Highway was gorgeous. My first real stop of the day was Kingsley Plantation, roughly 2 miles down a dirt road of the highway.
+From there, I headed toward Mayport to catch the ferry across the St. Johns River. Traffic wasn’t bad for a long holiday weekend, especially considering it was Valentine’s Day, and the ride up the Jimmy Buffet Memorial Highway was gorgeous. 
+
+# Kingsley Plantation
+My first real stop of the day was Kingsley Plantation, roughly 2 miles down a dirt road of the highway.
 
 ![Kingsley Plantation]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/kingsleyplantation.jpeg){: .mx-auto.d-block :}
 
@@ -38,6 +41,7 @@ On Jacksonville’s Fort George Island, Kingsley Plantation lays bare how slaver
 
 ![Kingsley Main House]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/kingsleybarninside.jpeg){: .mx-auto.d-block :}
 
+# Amelia Island Lighthouse
 The next stop on the route was the Amelia Island Lighthouse. I got lucky,by the time I rolled up, it was about 40 minutes past closing, but the gate was still open. A couple who arrived after me said they’d tried several times to visit and always found it locked, so apparently this was my day.
 
 ![Amelia Island Lighthouse]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse-sign.jpeg){: .mx-auto.d-block :}
@@ -46,6 +50,7 @@ Tucked into Fernandina Beach, the Amelia Island Lighthouse is the oldest survivi
 
 ![Amelia Island Lighthouse]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg){: .mx-auto.d-block :}
 
+# Fernandina Plaza Historic State Park
 A little farther up the road, tucked into Old Town Fernandina, is Fernandina Plaza Historic State Park, basically a grassy lot with one hell of a résumé. 
 
 
@@ -63,4 +68,5 @@ This small bluff over the Amelia River started as a Native American campsite and
 
 ![Fernandina Plaza San Carlos]({{ site.url }}/assets/img/2025/Feb/ValentinesDayRide/plazasancarlos.jpeg){: .mx-auto.d-block :}
 
+# Lunch at Artemis Pizza
 After that, I made a brief run through downtown Fernandina, grabbed lunch at Arte Pizza on N 3rd Street, and then pointed the bike back toward St. Augustine. A sunny winter day, a good ride, and a reminder that there’s a lot of history hiding just up the road.
