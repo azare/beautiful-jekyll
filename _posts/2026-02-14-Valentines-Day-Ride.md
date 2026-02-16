@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Valentine's Day - Old Florida Ride"
+title: "Old Florida Ride"
 subtitle: Exploring parts of Old Florida on Valentine's Day
 cover-img: /assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg
 thumbnail-img: /assets/img/2025/Feb/ValentinesDayRide/bike.jpeg
