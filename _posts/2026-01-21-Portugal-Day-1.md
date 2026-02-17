@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 0/1 - Portugal and Spain Motorcycle Trip"
-subtitle: First Light Over Lisbon: A Journey Begins
+subtitle: First Light Over Lisbon — A Journey Begins
 cover-img: /assets/img/2025/Portugal-Spain/day01/portalegre-view1.jpeg
 thumbnail-img: /assets/img/2025/Portugal-Spain/day01/polaris.jpeg
 share-img: /assets/img/2025/Portugal-Spain/day01/polariswelcome.jpeg
