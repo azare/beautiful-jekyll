@@ -5,7 +5,7 @@ subtitle: First Light Over Lisbon: A Journey Begins
 cover-img: /assets/img/2025/Portugal-Spain/day01/portalegre-view1.jpeg
 thumbnail-img: /assets/img/2025/Portugal-Spain/day01/polaris.jpeg
 share-img: /assets/img/2025/Portugal-Spain/day01/polariswelcome.jpeg
-tags: [old florida, rides]
+tags: [portugal, spain, rides]
 last_modified_at: 2026-01-21T20:30:00-04:00
 ---
 
