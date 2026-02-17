@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Day 0 - 1 - Portugal & Spain Motorcycle Trip"
-subtitle: Jacksonville, FL to Lisbon Portugal
-cover-img: /assets/img/2025/Feb/ValentinesDayRide/ameliaisland-lighthouse.jpeg
-thumbnail-img: /assets/img/2025/Feb/ValentinesDayRide/bike.jpeg
-share-img: /assets/img/2025/Feb/ValentinesDayRide/route.jpeg
+subtitle: First Light Over Lisbon: A Journey Begins
+cover-img: /assets/img/2025/Portugal-Spain/day01/portalegre-view1.jpeg
+thumbnail-img: /assets/img/2025/Portugal-Spain/day01/polaris.jpeg
+share-img: /assets/img/2025/Portugal-Spain/day01/polariswelcome.jpeg
 tags: [old florida, rides]
 last_modified_at: 2026-01-21T20:30:00-04:00
 ---
@@ -30,7 +30,6 @@ Leaving Lisbon over the immense 25 de Abril Bridge — the city’s Golden Gate 
 
 ![Forte da Graca]({{ site.url }}/assets/img/2025/Portugal-Spain/day01/portalegre-forte-da-graca.jpeg){: .mx-auto.d-block :}
 ![Bike at Fort]({{ site.url }}/assets/img/2025/Portugal-Spain/day01/portalegre-bike.jpeg){: .mx-auto.d-block :}
-![Forte da Graca]({{ site.url }}/assets/img/2025/Portugal-Spain/day01/portalegre-view1.jpeg){: .mx-auto.d-block :}
 ![Forte da Graca]({{ site.url }}/assets/img/2025/Portugal-Spain/day01/portalegre-view2.jpeg){: .mx-auto.d-block :}
 ![Forte da Graca]({{ site.url }}/assets/img/2025/Portugal-Spain/day01/portalegre-view3.jpeg){: .mx-auto.d-block :}
 ![Forte da Graca]({{ site.url }}/assets/img/2025/Portugal-Spain/day01/portalegre-inside-fort.jpeg){: .mx-auto.d-block :}
