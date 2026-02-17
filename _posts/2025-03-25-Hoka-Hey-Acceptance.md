@@ -6,7 +6,7 @@ cover-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
 thumbnail-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
 share-img: /assets/img/2025/HH/hoka-hey-rider-number.jpeg
 tags: [hokahey2026]
-last_modified_at: 2025-05-25T14:30:00-04:00
+last_modified_at: 2025-03-25T14:30:00-04:00
 ---
 
 Exciting News! 🚨🏍️
