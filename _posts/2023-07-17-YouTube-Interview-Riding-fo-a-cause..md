@@ -5,7 +5,7 @@ subtitle: Castillo Conversations Interview
 # cover-img: /assets/img/RiverCityLiveInterview.png
 thumbnail-img: /assets/img/YouTubeInterview.png
 share-img: /assets/img/YouTubeInterview.png
-tags: [interview]
+tags: [interview, Ultimate Coast To Coast Insanity]
 last_modified_at: 2023-07-19T12:00:00-04:00
 ---
 

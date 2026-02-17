@@ -5,7 +5,7 @@ cover-img: /assets/img/arctic-2.jpg
 thumbnail-img: /assets/img/2023/UCCI/LUPGreensmall.png
 share-img: /assets/img/2023/UCCI/LUPGreensmall.png
 tags: [route]
-categories: [trip]
+categories: [Ultimate Coast To Coast Insanity, IBA]
 last_modified_at: 2023-07-10T09:44:00-09:00
 ---
 
